@@ -11,6 +11,7 @@
 - sort()
 - passByValue Vs PassByReference (Implement)
 - Object
+- Features of ES6
 
 ## Data Structure and Algorithm
 
